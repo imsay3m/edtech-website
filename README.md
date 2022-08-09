@@ -5,7 +5,7 @@ For Large Device
 3.Change Web Site Name and Title to a Meaning Full Name.(DONE)
 4.Gutter/Grid.
 5.Button.
-6.Accordion-Minimum 4 Question and Answer Should Be 3 to 5 Lines(What Is Flexbox and Grid Difference, What Is Bootstrap and Tailwind CSS Diference, What Is CSS Box Model, What Is Semantic Tag).
+6.Accordion-Minimum 4 Question and Answer Should Be 3 to 5 Lines(What Is Flexbox and Grid Difference, What Is Bootstrap and Tailwind CSS Diference, What Is CSS Box Model, What Is Semantic Tag).(DONE)
 7.Footer-Minimum 3 Social Icon.(DONE)
 8.Bonus Section.(DONE)
 ---------------------------------------------------
