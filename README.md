@@ -3,7 +3,7 @@ For Large Device
 1.Simple Navbar.(DONE)
 2.Carousel.(DONE)
 3.Change Web Site Name and Title to a Meaning Full Name.(DONE)
-4.Gutter/Grid.
+4.Gutter/Grid/Flex.(DONE)
 5.Button.
 6.Accordion-Minimum 4 Question and Answer Should Be 3 to 5 Lines(What Is Flexbox and Grid Difference, What Is Bootstrap and Tailwind CSS Diference, What Is CSS Box Model, What Is Semantic Tag).(DONE)
 7.Footer-Minimum 3 Social Icon.(DONE)
@@ -11,7 +11,7 @@ For Large Device
 ---------------------------------------------------
 For Mobile Device
 1.Navbar Should Be Collapsed.(DONE)
-2.Gutter/Grid Should Be Single Column(Card System Full Width Image Top).
+2.Gutter/Grid/Flex Should Be Single Column(Card System Full Width Image Top).(DONE)
 3.Button(See More Courses/View All).
 4.Bonus Section.(DONE)
 ---------------------------------------------------
